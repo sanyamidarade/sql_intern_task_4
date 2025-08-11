@@ -12,7 +12,7 @@ pgadmin
 ## Key Concepts Used
 
  
-1) GROUP BY
+1)GROUP BY
 
 Groups rows with the same Name together so aggregate functions can be applied to each group.
 
