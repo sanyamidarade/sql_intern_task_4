@@ -14,7 +14,9 @@ pgadmin
  
 1)GROUP BY
 
+
 Groups rows with the same Name together so aggregate functions can be applied to each group.
+
 
 
 2)Aggregate Functions
@@ -31,10 +33,12 @@ MIN() → Finds the smallest value in a column.
 MAX() → Finds the largest value in a column.
 
 
+
 3)HAVING Clause
 
 
 Filters the groups after aggregation.
+
 
 
 4)ORDER BY
